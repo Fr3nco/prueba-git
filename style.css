@@ -7,7 +7,7 @@ p, h1 {
 }
 
 h2{
-    color:aqua;
+    color: rebeccapurple
 }
 #primer-parrafo {
     color:blue; /* va a sobreescribir solo a las clases */
